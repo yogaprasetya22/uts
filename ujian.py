@@ -11,7 +11,7 @@ def ujian():
 
     filesoal = droid.dialogGetInput("Mengambil File Soal", "Nama File").result
 
-    rootPath = "/storage/emulated/0/qpython/script3/uts/"
+    rootPath = "/storage/emulated/0/qpython/scripts3/uts/"
 
     file = open(os.path.join(rootPath, filesoal+".txt"), "r")
 
