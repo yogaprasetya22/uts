@@ -10,7 +10,7 @@ def tampilsoal():
         exit()
     else:
         file = filesoal
-        file = "/storage/emulated/0/uts/" + file + ".txt"
+        file = "/storage/emulated/0/qpython/script3/uts/" + file + ".txt"
         objekfile = open(file, "r")
         droid.dialogCreateAlert("Menampilkan", objekfile.read())
         droid.dialogSetPositiveButtonText('Lanjut')

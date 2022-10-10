@@ -13,7 +13,7 @@ def isisoal():
     soald = droid.dialogGetInput("Masukan", "Jawaban D").result
     soale = droid.dialogGetInput("Masukan", "Jawaban E").result
     file = filesoal
-    file = "/storage/emulated/0/uts/" + file + ".txt"
+    file = "/storage/emulated/0/qpython/script3/uts/" + file + ".txt"
     fi = open(file, "r+")
     l = fi.readline()
     if len(l) == 0:
