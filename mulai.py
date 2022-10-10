@@ -17,7 +17,7 @@ def utama():
     elif ket['item'] == 1:
         baca.tampilsoal()
     elif ket['item'] == 2:
-        tambah.tambahfile()``
+        tambah.tambahfile()
     elif ket['item'] == 3:
         ujian.ujian()
     else:
