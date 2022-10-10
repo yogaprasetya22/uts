@@ -1,0 +1,40 @@
+#
+1. apa fungsinya dari method readline ()?
+a. mambaca saja
+b. mengganti tulisan pada file
+c. mengganti nama file
+d. mengganti text pada file
+e. membaca baris pada file
+*
+J= e
+##
+#
+2. apa fungsi dari appned() pada python?
+a. membaca file
+b. mengganti file
+c. menginput file menjadi array
+d. text yang dibaca menjadi berubah
+e. hanya mengganti tulisan
+*
+J= c
+##
+#
+3. apa fungsinya dari index()?
+a. untuk mengambil nilai
+b. merubah nilai
+c. menyimpan ke array
+d. mengganti text
+e. menyimpan ke file
+*
+J= a
+##
+#
+4. apa kegunaanya find() pada qpython?
+a. untuk menemukan nilai
+b. menggani nilai
+c. menambahkan nilai
+d. menghapus nilai 
+e. hanya membaca
+*
+J= a
+##
